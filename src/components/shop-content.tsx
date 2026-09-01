@@ -20,10 +20,7 @@ export function ShopContent({ category, sale = false, sort }: ShopContentProps) 
 
   return (
     <>
-      <PageHero
-        eyebrow={tr("shopEyebrow")}
-        title={sale ? tr("shopTitleSale") : tr("shopTitle")}
-      >
+      <PageHero title={sale ? tr("shopTitleSale") : tr("shopTitle")}>
         {sale ? tr("shopLedeSale") : tr("shopLede")}
       </PageHero>
       <section className="shell stack">

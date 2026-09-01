@@ -44,7 +44,7 @@ export const blogPosts = [
       "Clumping clay is fine until July. Here is what we send home when the air will not dry a tray.",
     body: [
       "Humidity is the enemy of a cheap litter. If the tray cakes at the edges, switch to a tighter clump or add deodorizing beads under the scoop, not on top.",
-      "We keep clay, pine, and beads on the Uttara wall. Ask which bag the staff use at home - the answer changes with the weather.",
+      "We keep clay, pine, and beads in the Uttara shop. Ask which bag the staff use at home - the answer changes with the weather.",
       "A weekly full change still beats a scented spray. The beads are a helper, not a cover-up.",
     ],
   },
@@ -56,7 +56,7 @@ export const jobs = [
     title: "Uttara counter lead",
     type: "Full-time · Uttara",
     summary:
-      "Know every bag on the wall, pack one-hour orders, and teach new staff the seven-day switch.",
+      "Know every bag in the shop, pack one-hour orders, and teach new staff the seven-day switch.",
   },
   {
     slug: "delivery-rider",
@@ -71,6 +71,6 @@ export const stores = [
     name: "Uttara flagship",
     address: "House-25, Sector-11, Road-19, Uttara, Dhaka",
     hours: "Daily 10am–10pm",
-    note: "Full wall of dry food, pouches, litter, and accessories. Pickup for online orders.",
+    note: "Full range of dry food, pouches, litter, and accessories. Pickup for online orders.",
   },
 ];

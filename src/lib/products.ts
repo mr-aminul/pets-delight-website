@@ -155,7 +155,7 @@ export const products: Product[] = [
     image: pack("dry", 4),
     shortDescription: "Trial size for picky eaters.",
     description:
-      "A 500g bag so you can test a protein before you commit to 3kg. If the cat finishes it, step up to the larger Pet’s Choice bags on the same wall.",
+      "A 500g bag so you can test a protein before you commit to 3kg. If the cat finishes it, step up to the larger Pet’s Choice bags in the same aisle.",
     ingredients: ["Tuna", "Chicken", "Cereals", "Chicken fat", "Taurine"],
     weight: "500 g",
     petType: "cat",
@@ -263,7 +263,7 @@ export const products: Product[] = [
     image: pack("dry", 10),
     shortDescription: "The most asked-for SmartHeart size.",
     description:
-      "Chicken and tuna in the 1.2kg SmartHeart bag. This is the default adult food on our wall - familiar, crunchy, and easy to find again next month.",
+      "Chicken and tuna in the 1.2kg SmartHeart bag. This is the default adult food in our shop - familiar, crunchy, and easy to find again next month.",
     ingredients: ["Chicken", "Tuna", "Cereals", "Chicken fat", "Vitamins", "Taurine"],
     weight: "1.2 kg",
     petType: "cat",
@@ -461,7 +461,7 @@ export const products: Product[] = [
     image: pack("pouch", 2),
     shortDescription: "Soft chicken and egg snack.",
     description:
-      "A richer snack than a dry biscuit. Break pieces for training. The 40৳ 200g line on the old site was a different SKU - this is the jar we keep on the wall.",
+      "A richer snack than a dry biscuit. Break pieces for training. The 40৳ 200g line on the old site was a different SKU - this is the jar we keep in stock.",
     ingredients: ["Chicken", "Egg yolk", "Glycerin", "Vitamins"],
     weight: "200 g",
     petType: "cat",

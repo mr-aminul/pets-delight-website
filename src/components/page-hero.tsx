@@ -3,14 +3,14 @@ export function PageHero({
   title,
   children,
 }: {
-  eyebrow: string;
+  eyebrow?: string;
   title: string;
   children: React.ReactNode;
 }) {
   return (
     <section className="page-hero">
       <div className="shell">
-        <p className="eyebrow">{eyebrow}</p>
+        {eyebrow ? <p className="eyebrow">{eyebrow}</p> : null}
         <h1>{title}</h1>
         <p className="lede">{children}</p>
       </div>

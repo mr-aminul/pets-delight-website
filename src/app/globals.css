@@ -820,12 +820,12 @@ textarea {
   display: grid;
   place-items: center;
   background: white;
-  min-height: 220px;
-  padding: 1rem;
+  min-height: 200px;
+  padding: 0.7rem;
 }
 
 .product-media img {
-  height: 190px;
+  height: 180px;
   width: auto;
   object-fit: contain;
 }
@@ -835,11 +835,11 @@ textarea {
   display: flex;
   flex-direction: column;
   background: #f3f1ec;
-  padding: 0.95rem 1rem 1.1rem;
+  padding: 0.75rem 0.85rem 0.9rem;
 }
 
 .product-copy h3 {
-  margin: 0 0 0.45rem;
+  margin: 0 0 0.3rem;
   font-size: 1rem;
   min-height: 2.6em;
   overflow-wrap: anywhere;
@@ -1083,7 +1083,7 @@ textarea {
 
 .page-hero {
   background: radial-gradient(circle at 80% 0%, rgba(255, 107, 61, 0.12), transparent 30%), var(--cream-deep);
-  padding: 3.4rem 0 2.8rem;
+  padding: 1.75rem 0 0.35rem;
 }
 
 .eyebrow {
@@ -1092,13 +1092,13 @@ textarea {
   font-weight: 800;
   font-size: 0.78rem;
   color: var(--accent);
-  margin: 0 0 0.6rem;
+  margin: 0 0 0.3rem;
 }
 
 .page-hero h1,
 .product-detail h1,
 .checkout-layout h1 {
-  margin: 0 0 0.7rem;
+  margin: 0 0 0.35rem;
   font-size: clamp(2.2rem, 5vw, 3.6rem);
   letter-spacing: -0.03em;
 }
@@ -1106,21 +1106,21 @@ textarea {
 .lede {
   max-width: 42rem;
   color: var(--muted);
-  line-height: 1.7;
+  line-height: 1.5;
   margin: 0;
 }
 
 .stack {
-  padding: 3rem 0 5rem;
+  padding: 0.85rem 0 3.25rem;
   display: grid;
-  gap: 1.2rem;
+  gap: 0.75rem;
 }
 
 .filters {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.6rem;
-  margin-bottom: 1.6rem;
+  gap: 0.5rem;
+  margin-bottom: 0;
 }
 
 .filters .chip,
@@ -1176,7 +1176,7 @@ textarea {
 .product-grid {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
-  gap: 1.1rem;
+  gap: 0.85rem;
 }
 
 .product-detail {
@@ -1696,11 +1696,25 @@ textarea {
   }
 
   .page-hero {
-    padding: 2.2rem 0 1.8rem;
+    padding: 1.15rem 0 0.25rem;
   }
 
   .stack {
-    padding: 2rem 0 3.4rem;
+    padding: 0.65rem 0 2.5rem;
+    gap: 0.6rem;
+  }
+
+  .product-media {
+    min-height: 170px;
+    padding: 0.55rem;
+  }
+
+  .product-media img {
+    height: 150px;
+  }
+
+  .product-copy {
+    padding: 0.65rem 0.7rem 0.75rem;
   }
 }
 
@@ -1816,12 +1830,12 @@ textarea {
   }
 
   .product-copy {
-    padding: 0.7rem 0.75rem 0.8rem;
+    padding: 0.55rem 0.6rem 0.65rem;
   }
 
   .product-copy h3 {
     min-height: 0;
-    margin-bottom: 0.3rem;
+    margin-bottom: 0.25rem;
     font-size: 0.8rem;
     line-height: 1.25;
   }
@@ -1844,12 +1858,12 @@ textarea {
   }
 
   .product-media {
-    min-height: 170px;
-    padding: 0.7rem;
+    min-height: 150px;
+    padding: 0.45rem;
   }
 
   .product-media img {
-    height: 150px;
+    height: 135px;
   }
 
   .cart-add {
@@ -1890,6 +1904,12 @@ textarea {
   .checkout-form>.btn,
   .qty-row .btn {
     width: 100%;
+  }
+
+  .chip,
+  .select {
+    padding: 0.4rem 0.8rem;
+    min-height: 40px;
   }
 
   .page-hero h1 {

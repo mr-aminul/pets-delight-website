@@ -113,7 +113,7 @@ export const messages = {
     dryFoodSub: "Everyday kibble in the sizes Dhaka households finish.",
     whatsappTitle: "Order on WhatsApp",
     whatsappCopy:
-      "Tell us the food, litter, or treat they need - we confirm stock, price, and delivery, then pack it from the Uttara wall.",
+      "Tell us the food, litter, or treat they need - we confirm stock, price, and delivery, then pack it from the Uttara shop.",
     whatsappOrder: "WhatsApp to order",
     trustQuality: "Quality Assured",
     trustDelivery: "Fast Delivery",
@@ -121,7 +121,7 @@ export const messages = {
     trustSupport: "Call Or WhatsApp",
 
     // Shop
-    shopEyebrow: "The wall",
+    shopEyebrow: "Shop",
     shopTitle: "Food, litter, and accessories.",
     shopTitleSale: "This week's prices, already cut.",
     shopLede:
@@ -132,7 +132,7 @@ export const messages = {
 
     // Search
     searchEyebrow: "Search",
-    searchTitle: "Search the wall",
+    searchTitle: "Search the shop",
     searchTitleQuery: 'Results for "{query}"',
     searchLede: "Try SmartHeart, litter, pouch, or a brand name. Every result adds to the cart.",
     searchResults: "{count} item matches that query.",
@@ -146,7 +146,7 @@ export const messages = {
 
     // Footer
     footerTagline:
-      "Pet food and accessories from Uttara. Cash on delivery, one-hour drops nearby, and a wall of bags we actually keep in stock.",
+      "Pet food and accessories from Uttara. Cash on delivery, one-hour drops nearby, and bags we actually keep in stock.",
     footerShop: "Shop",
     footerOrders: "Orders",
     footerHelp: "Help",
@@ -169,7 +169,7 @@ export const messages = {
     aboutTitle: "The Uttara counter, now easier to browse.",
     aboutLede:
       "Pet Delight BD already feeds Dhaka cats from House-25, Sector-11. This site keeps their prices, aisles, and cash-on-delivery promise - in the same modern shop language as our PetFood project.",
-    aboutWhyTitle: "Why the wall looks this way",
+    aboutWhyTitle: "Why the shop looks this way",
     aboutWhyP1:
       "The live store at petdelightbd.com already sells Bonacibo, SmartHeart, Pet's Choice, Purina One, litter, and grooming kits. We did not invent a new brand. We rebuilt the front door so it feels as considered as the bags on the shelf.",
     aboutWhyP2:
@@ -216,9 +216,9 @@ export const messages = {
 
     // How it works
     howEyebrow: "The path",
-    howTitle: "From the Uttara wall to the bowl.",
+    howTitle: "From the Uttara shop to the bowl.",
     howLede: "Three steps, no dead ends. Walk this path in a meeting without an account from us.",
-    howStep1Title: "1. Pick from the wall",
+    howStep1Title: "1. Pick from the shop",
     howStep1Copy:
       "Filter by dry food, pouch, canned, litter, or accessories. Every card opens a full page and adds to the cart.",
     howStep2Title: "2. We pack it in Uttara",
@@ -319,7 +319,7 @@ export const messages = {
 
     // 404
     notFoundTitle: "That aisle is empty.",
-    notFoundLede: "The page is missing, but the shop is not. Head back to the wall or search for a brand.",
+    notFoundLede: "The page is missing, but the shop is not. Head back to the shop or search for a brand.",
     notFoundShop: "Shop pet food",
   },
   bn: {
@@ -461,7 +461,7 @@ export const messages = {
     cartEmpty: "কার্ট খালি। দোকান থেকে ব্যাগ যোগ করুন, এখানে থাকবে।",
 
     footerTagline:
-      "উত্তরা থেকে পেট ফুড ও অ্যাক্সেসরিজ। ক্যাশ অন ডেলিভারি, কাছে এক ঘণ্টায় ডেলিভারি, আর স্টকে থাকা ব্যাগের দেয়াল।",
+      "উত্তরা থেকে পেট ফুড ও অ্যাক্সেসরিজ। ক্যাশ অন ডেলিভারি, কাছে এক ঘণ্টায় ডেলিভারি, আর স্টকে থাকা ব্যাগ।",
     footerShop: "দোকান",
     footerOrders: "অর্ডার",
     footerHelp: "সাহায্য",
@@ -483,7 +483,7 @@ export const messages = {
     aboutTitle: "উত্তরার কাউন্টার, এখন সহজে ব্রাউজ করুন।",
     aboutLede:
       "Pet Delight BD ইতিমধ্যে হাউস-২৫, সেক্টর-১১, উত্তরা থেকে ঢাকার বিড়ালদের খাওয়ায়। এই সাইটে দাম, ক্যাটাগরি ও ক্যাশ অন ডেলিভারির প্রতিশ্রুতি একই আছে।",
-    aboutWhyTitle: "দোকানের দেয়াল এমন কেন",
+    aboutWhyTitle: "দোকান এমন কেন",
     aboutWhyP1:
       "petdelightbd.com-এ ইতিমধ্যে Bonacibo, SmartHeart, Pet's Choice, Purina One, লিটার ও গ্রুমিং কিট বিক্রি হয়। নতুন ব্র্যান্ড তৈরি করিনি - শেলফের ব্যাগের মতোই সুন্দর সামনের দরজা বানিয়েছি।",
     aboutWhyP2:
@@ -525,9 +525,9 @@ export const messages = {
       "হ্যাঁ, ১৪ দিনের মধ্যে রসিদসহ। খোলা ব্যাগও ফেরত - বিড়াল খেতে না পারলে প্রোটিন বদলে দেব।",
 
     howEyebrow: "পথ",
-    howTitle: "উত্তরার দেয়াল থেকে বাটিতে।",
+    howTitle: "উত্তরার দোকান থেকে বাটিতে।",
     howLede: "তিন ধাপ, কোনো গল dead-end নেই। অ্যাকাউন্ট ছাড়াই ডেমো দেখানো যায়।",
-    howStep1Title: "১. দেয়াল থেকে বেছে নিন",
+    howStep1Title: "১. দোকান থেকে বেছে নিন",
     howStep1Copy:
       "ড্রাই ফুড, পাউচ, ক্যানড, লিটার বা অ্যাক্সেসরিজ ফিল্টার করুন। প্রতিটি কার্ড পূর্ণ পেজ খোলে ও কার্টে যোগ হয়।",
     howStep2Title: "২. উত্তরায় প্যাক করি",
@@ -617,7 +617,7 @@ export const messages = {
       "অ্যানালিটিক্স বা বিজ্ঞাপন এলে এখানে সম্মতি ব্যানার যোগ করা যাবে। ততক্ষণ গ্রহণ করার কিছু নেই, দোকান ব্লক হয় না।",
 
     notFoundTitle: "এই আইল খালি।",
-    notFoundLede: "পেজ নেই, কিন্তু দোকান আছে। দেয়ালে ফিরে যান বা ব্র্যান্ড খুঁজুন।",
+    notFoundLede: "পেজ নেই, কিন্তু দোকান আছে। দোকানে ফিরে যান বা ব্র্যান্ড খুঁজুন।",
     notFoundShop: "পেট ফুড কিনুন",
   },
 } as const;

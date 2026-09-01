@@ -38,7 +38,7 @@ export const productBn: Record<string, ProductBnFields> = {
     name: "Pet's Choice Adult Tuna & Chicken 500gm",
     shortDescription: "খুঁতখুতে খাওয়া বিড়ালদের জন্য ট্রায়াল সাইজ।",
     description:
-      "৫০০g ব্যাগ - ৩kg-এ যাওয়ার আগে প্রোটিন টেস্ট করুন। বিড়াল শেষ করলে একই দেয়াল থেকে বড় Pet's Choice ব্যাগ নিন।",
+      "৫০০g ব্যাগ - ৩kg-এ যাওয়ার আগে প্রোটিন টেস্ট করুন। বিড়াল শেষ করলে একই আইল থেকে বড় Pet's Choice ব্যাগ নিন।",
     ingredients: ["টুনা", "মুরগি", "শস্য", "মুরগির চর্বি", "Taurine"],
   },
   "pets-choice-all-life-omega-500g": {
@@ -80,7 +80,7 @@ export const productBn: Record<string, ProductBnFields> = {
     name: "SmartHeart Adult Chicken & Tuna 1.2kg",
     shortDescription: "সবচেয়ে বেশি চাওয়া SmartHeart সাইজ।",
     description:
-      "১.২kg SmartHeart ব্যাগে মুরগি ও টুনা। আমাদের দেয়ালের default adult food - পরিচিত, মচমচে, পরের মাসেও সহজে পাবেন।",
+      "১.২kg SmartHeart ব্যাগে মুরগি ও টুনা। আমাদের দোকানের default adult food - পরিচিত, মচমচে, পরের মাসেও সহজে পাবেন।",
     ingredients: ["মুরগি", "টুনা", "শস্য", "মুরগির চর্বি", "ভিটামিন", "Taurine"],
   },
   "smartheart-adult-chicken-tuna-3kg": {
@@ -157,7 +157,7 @@ export const productBn: Record<string, ProductBnFields> = {
     name: "Deliver Your Love Chicken & Egg Yolk 200gm",
     shortDescription: "নরম মুরগি ও ডিমের কুসুম snack।",
     description:
-      "dry biscuit-এর চেয়ে richer snack। ট্রেনিংয়ে ছোট টুকরো করুন। পুরোনো সাইটের ৪০৳ ২০০g line আলাদা SKU - দেয়ালে রাখা jar এটা।",
+      "dry biscuit-এর চেয়ে richer snack। ট্রেনিংয়ে ছোট টুকরো করুন। পুরোনো সাইটের ৪০৳ ২০০g line আলাদা SKU - স্টকে রাখা jar এটা।",
     ingredients: ["মুরগি", "ডিমের কুসুম", "Glycerin", "ভিটামিন"],
   },
   "whiskas-junior-tuna-pouch": {
